@@ -1,0 +1,26 @@
+{
+  "name": "ts-fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaa7/TS-FizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaa7/TS-FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/kaa7/TS-FizzBuzz#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.5",
+    "ts-node": "^10.0.0"
+  }
+}
